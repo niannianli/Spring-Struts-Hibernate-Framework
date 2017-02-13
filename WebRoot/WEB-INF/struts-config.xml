@@ -7,6 +7,6 @@
   <global-exceptions />
   <global-forwards />
   <action-mappings />
-  <message-resources parameter="com.zhang.struts.ApplicationResources" />
+  <message-resources parameter="com.niannian.struts.ApplicationResources" />
 </struts-config>
 
